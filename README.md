@@ -1,6 +1,6 @@
 <!-- Banner 20232A -->
-![Banner-dark-mode](https://ibb.co/GVDRcV4)
 
+(https://ibb.co/GVDRcV4)
 
 <p align="center">
 👋 Hi there! I'm Jihan, a passionate beginner web designer eager to create engaging and functional digital experiences. I'm diving headfirst into the world of web design, learning HTML, CSS, and JavaScript to bring ideas to life on the web. Constantly seeking inspiration and knowledge, I'm on a journey to refine my skills and craft beautiful, user-friendly websites. Let's connect, learn, and build together!  
