@@ -1,5 +1,5 @@
 <!-- Banner 20232A -->
-<img align="center" alt="" src="https://i.ibb.co/N7x8yfy/Hr.png" width="100%"/>
+<img align="center" alt="" src="https://i.ibb.co/N7x8yfy/Hr.png" width=""/>
 
 
 <p align="center">
