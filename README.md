@@ -1,5 +1,5 @@
 <!-- Banner 20232A -->
-<img align="center" alt="" src="https://i.ibb.co/XxK7grS/Habibur-Rahman-Jihan-1.png" width="464px" height="123px"/>
+<img align="center" alt="" src="https://i.ibb.co/XxK7grS/Habibur-Rahman-Jihan-1.png" width="100%" height="300px"/>
 
 
 <p align="center">
@@ -9,7 +9,7 @@
 ##
 
 <be>
-<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/36c6f9474aeb3060d558014cd85b0c9d004191995440d382851531655173be83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/36c6f9474aeb3060d558014cd85b0c9d004191995440d382851531655173be83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="maherab-hossain" data-canonical-src="https://komarev.com/ghpvc/?username=maherab-hossain&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/36c6f9474aeb3060d558014cd85b0c9d004191995440d382851531655173be83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/36c6f9474aeb3060d558014cd85b0c9d004191995440d382851531655173be83/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73686f757261622d646576266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="Hr-jihan" data-canonical-src="https://komarev.com/ghpvc/?username=Hr-jihan&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
 
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
@@ -21,13 +21,13 @@
 
 
 
-- 🔭 I have completed MY Web training at https://www.creativeitinstitute.com/.
+- 🔭 I have completed MY Web training at [**Creative IT**](https://www.creativeitinstitute.com/.)
 
 - 🌱 I’m currently learning Javascript React.
 
 - 📫 How to reach me: [**Linkedin**](https://www.linkedin.com/in/hr-jihan/)
 
-- 🔍 Take a look at my projects on  [**Frontend Mentor**](https://www.frontendmentor.io/profile/Hr-jihan)!.
+- 🔍 Take a look at my projects on  [**Frontend Mentor**](https://www.frontendmentor.io/profile/Hr-jihan).
 
 - 💬 Ask me about HTML and CSS.
 
